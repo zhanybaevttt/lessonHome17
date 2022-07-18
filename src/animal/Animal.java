@@ -1,2 +1,4 @@
-package Animal;public class Animal {
+package animal;
+
+public class Animal {
 }

@@ -1,2 +1,10 @@
-package Animal;public class Eagle {
-}
+package animal;
+
+public class Eagle extends Animal{
+    public void fly(){
+        System.out.println("fly");
+    }
+
+
+    }
+
